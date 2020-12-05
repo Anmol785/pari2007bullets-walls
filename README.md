@@ -1,2 +1,2 @@
-# pari2007bullets-walls
-i created a project named as bullets and walls 
+# p5.play-boilerplate
+Boiler plate for p5.play
